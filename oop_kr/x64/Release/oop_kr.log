@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (oop_kr.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(45): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(46): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(63): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(86): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(104): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(111): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(141): warning C4305: +=: усечение из "double" в "float"
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(172): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(176): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(177): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(178): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(179): warning C4305: +=: усечение из "double" в "float"
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(183): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(201): warning C4305: +=: усечение из "double" в "float"
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(259): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(265): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(288): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(337): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\tekil\source\repos\oop_kr\oop_kr\header.h(395): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  131 of 136 functions (96.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  oop_kr.vcxproj -> C:\Users\tekil\source\repos\oop_kr\x64\Release\SpaceOOP2019.exe
